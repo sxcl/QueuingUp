@@ -18,7 +18,7 @@ namespace QueuingUp
             q.Print();
             q.Queue(patiens[1]); // 排队
             q.Print();
-            q.DeQueueTheTop(); // 第一个出队
+            q.DeQueueTheTop(); // 叫号第一个
             q.Print();
             q.Queue(patiens[2]); // 排队
             q.Print();
@@ -28,7 +28,7 @@ namespace QueuingUp
             q.Print();
             q.DeQueue(patiens[2]); // 患者张三2 出队
             q.Print();
-            q.DeQueueTheTail(); // 最后一位出队
+            q.DeQueueTheTail(); // 叫号最后一位
             q.Print();
             q.Queue(patiens[5]); // 排队
             q.Print();
