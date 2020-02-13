@@ -68,7 +68,7 @@ namespace QueuingUp
         }
 
         /// <summary>
-        /// 老实排队
+        /// 插队到某一位
         /// </summary>
         /// <param name="patient"></param>
         /// <returns></returns>
@@ -114,7 +114,7 @@ namespace QueuingUp
         }
 
         /// <summary>
-        /// 放弃排队
+        /// 出队
         /// </summary>
         /// <param name="patient"></param>
         /// <returns></returns>
@@ -171,7 +171,7 @@ namespace QueuingUp
         }
 
         /// <summary>
-        /// 查看队列
+        /// 打印队列
         /// </summary>
         public void Print()
         {
