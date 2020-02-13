@@ -10,15 +10,12 @@ namespace QueuingUp
         public Patient head;
         // 末尾位
         public Patient tail;
-        // 可排队人数
-        public int capacity;
 
-        public Queuing(int capacity = int.MaxValue)
+        public Queuing()
         {
             head = null;
             tail = null;
             size = 0;
-            this.capacity = capacity;
         }
 
         /// <summary>
@@ -28,11 +25,6 @@ namespace QueuingUp
         /// <returns></returns>
         public Patient QueueTheTop(Patient patient)
         {
-            if (size >= capacity)
-            {
-                return null;
-            }
-
             if (head == null) // 还没人排队
             {
                 patient.next = null;
