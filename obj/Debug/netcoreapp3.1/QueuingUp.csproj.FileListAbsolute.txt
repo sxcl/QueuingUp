@@ -1,0 +1,11 @@
+D:\Develop\Dot net\QueuingUp\bin\Debug\netcoreapp3.1\QueuingUp.exe
+D:\Develop\Dot net\QueuingUp\bin\Debug\netcoreapp3.1\QueuingUp.deps.json
+D:\Develop\Dot net\QueuingUp\bin\Debug\netcoreapp3.1\QueuingUp.runtimeconfig.json
+D:\Develop\Dot net\QueuingUp\bin\Debug\netcoreapp3.1\QueuingUp.runtimeconfig.dev.json
+D:\Develop\Dot net\QueuingUp\bin\Debug\netcoreapp3.1\QueuingUp.dll
+D:\Develop\Dot net\QueuingUp\bin\Debug\netcoreapp3.1\QueuingUp.pdb
+D:\Develop\Dot net\QueuingUp\obj\Debug\netcoreapp3.1\QueuingUp.csprojAssemblyReference.cache
+D:\Develop\Dot net\QueuingUp\obj\Debug\netcoreapp3.1\QueuingUp.AssemblyInfoInputs.cache
+D:\Develop\Dot net\QueuingUp\obj\Debug\netcoreapp3.1\QueuingUp.AssemblyInfo.cs
+D:\Develop\Dot net\QueuingUp\obj\Debug\netcoreapp3.1\QueuingUp.dll
+D:\Develop\Dot net\QueuingUp\obj\Debug\netcoreapp3.1\QueuingUp.pdb
