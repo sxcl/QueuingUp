@@ -7,7 +7,7 @@ namespace QueuingUp
     {
         static void Main(string[] args)
         {
-            var q = new Queuing(50);
+            var q = new Queuing();
             var patiens = new List<Patient>();
             for (int i = 0; i < 10; i++)
             {
