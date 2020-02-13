@@ -13,11 +13,17 @@ namespace QueuingUp
         // 上一位患者
         public Patient prev;
 
+        /// <summary>
+        /// 构造函数
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="name"></param>
+        /// <param name="mzno"></param>
         public Patient(int id, string name, string mzno)
         {
             this.id = id;
             this.name = name;
-            this.mzno = mzno;
+            this.mzno = mzno; 
         }
     }
 }
